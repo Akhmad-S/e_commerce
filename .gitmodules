@@ -1,0 +1,12 @@
+[submodule "api_gateway_e_commerce"]
+	path = api_gateway_e_commerce
+	url = https://github.com/Akhmad-S/api_gateway_e_commerce.git
+[submodule "auth_service"]
+	path = auth_service
+	url = https://github.com/Akhmad-S/auth_service.git
+[submodule "order_service"]
+	path = order_service
+	url = https://github.com/Akhmad-S/order_service.git
+[submodule "catalog_service"]
+	path = catalog_service
+	url = https://github.com/Akhmad-S/catalog_service.git
